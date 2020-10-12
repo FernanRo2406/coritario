@@ -2,7 +2,7 @@
   "name": "Coritario Adventista",
   "short_name": "Coritario",
   "description": "La aplicacion es una cancionero religioso",
-  "start_url": "/index.html",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#ef5350",
   "orientation": "portrait-primary",
