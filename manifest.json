@@ -4,9 +4,9 @@
   "description": "La aplicacion es una cancionero religioso",
   "start_url": "/index.html",
   "display": "standalone",
-  "background_color": "#9fe0b0",
+  "background_color": "#ef5350",
   "orientation": "portrait-primary",
-  "theme_color": "#117c5c",
+  "theme_color": "#f44336",
   "icons": [
     {
       "src": "/images/icons/icon-16x16.png",
