@@ -1,4 +1,4 @@
-const myStaticCache = "coritarioCache-v1.1";
+const myStaticCache = "coritarioCache-v1.2";
 
 const assets = [
   "/",
